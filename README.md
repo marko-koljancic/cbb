@@ -38,6 +38,18 @@ It exposes following contents:
 * `..\src\..`  - source code with solution for building Autodesk Revit plugin.
 * `..\wiki\..` - official documentation and manual.
 ---
-For more information please contact project manager [Marko Koljancic](https://www.linkedin.com/in/marko87/m).
+## License
 
-Copyright 2019 Marko Koljancic. All Rights Reserved.
+[MIT License](LICENSE)
+
+## Contributing
+
+1. Fork the repository
+2. Create your feature branch: `git checkout -b feature/amazing-feature`
+3. Commit your changes: `git commit -m 'Add some amazing feature'`
+4. Push to the branch: `git push origin feature/amazing-feature`
+5. Open a Pull Request
+
+## Contact
+
+[Marko Koljancic](https://koljam.com/)
